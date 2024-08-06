@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi! Welcome to my page!
 
-<!--
-**juliar0d/juliar0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇧🇷 Brazilian.
+- 🎓 Currently gradutating in Managment of Information Technology at FATEC Barueri.
+- 🌱 Aspiring software developer.
+- 👩‍💻 Focusing on Swift and Python.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experiences**
+
+- 💻 At the moment I'm working as a Infraestructure in I.T Intern at Cielo (a financional company in Brazil)
+
+**Skills**
+
+- Cloud Computing
+- Azure 
+- O365
+- Analytical Skills
+- Fluent English
+
+
+## Reach me anytime
+
+- 📧 Email: juliarodrigues04.09@gmail.com
+- [LinkedIn](www.linkedin.com/in/julia-rodrigues-873b07218)
