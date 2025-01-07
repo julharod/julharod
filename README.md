@@ -9,7 +9,7 @@
 
 **Experiences**
 
-- 💻 At the moment I'm working as a Infraestructure in I.T Intern at Cielo (a financional company in Brazil)
+- 💻 Working as a Infraestructure in I.T Intern at Cielo
 
 **Skills**
 
@@ -18,6 +18,8 @@
 - O365
 - Analytical Skills
 - Fluent English
+- Python
+- Artificial Intelligence
 
 
 ## Reach me anytime
