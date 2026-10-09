@@ -9,17 +9,19 @@
 
 **Experiences**
 
-- 💻 Working as a Infraestructure in I.T Intern at Cielo
+- Infraestructure in I.T Intern at Cielo
+- Currently working as a Product Manager focused on Infrastructure Services at Cielo.
+
+
 
 **Skills**
 
 - Cloud Computing
-- Azure 
+- Azure, AWS
 - O365
-- Analytical Skills
-- Fluent English
+- Jira, Kanban, Scrum, Agile.
 - Python
-- Artificial Intelligence
+- AI, Claude, ChatGPT, Copilot
 
 
 ## Reach me anytime
